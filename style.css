@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: linear-gradient(to right, #FFDFE2, #FFB6C1); /* Pink pastel gradient untuk latar belakang body */
+    color: #333; /* Warna teks diubah agar tetap terbaca dengan jelas di atas latar belakang pink */
+  }
+  
+  #judul {
+    background-image: url(c/mentaal.png);
+    color: #FF1493; /* Warna pink yang lebih terang untuk teks judul */
+    font-size: 18px;
+    text-align: center;
+    padding: 35px;
+    border: 3px solid #FF8CAB;
+    margin-bottom: 50px;
+  }
+  
+  .media img {
+    height: 360px;
+    width: 360px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+  
+  .content {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .content .opening p {
+    margin-top: 30px;
+  }
+  
+  .content img {
+    width: 360px;
+    height: 360px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .one {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .one p {
+    margin-top: 30px;
+  }
+  
+  .one img {
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    height: 360px;
+    width: 360px;
+  }
+  
+  
+
+#form {
+  padding: 20px;
+  background-color: pink; /* Mengubah warna latar belakang formulir menjadi pink */
+  color: aliceblue;
+  border: 3px solid palevioletred;
+}
