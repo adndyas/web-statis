@@ -3,7 +3,7 @@ body {
     font: 16px/28px arial, sans-serif;
     background-color:rgb(189, 214, 240);
     color: #333;
-    background-image: url(c/cloud.jpg);
+    background-image: url(cloud.jpg);
     background-size: cover;
     background-attachment: fixed;
   }
@@ -45,7 +45,7 @@ body {
   
   .Dufan {
     height: 380px;
-    background-image: url(c/dufan.jpeg);
+    background-image: url(dufan.jpeg);
     background-size: cover;
     background-position: 0 -75px;
     outline-style: solid;
